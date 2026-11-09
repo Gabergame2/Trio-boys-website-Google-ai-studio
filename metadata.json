@@ -1,0 +1,6 @@
+{
+  "name": "Trio Boys",
+  "description": "The official home of Trio Boys: latest videos, merch drops, Project Summer and the community.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
